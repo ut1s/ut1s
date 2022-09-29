@@ -11,6 +11,42 @@ You can click the Preview link to take a look at your changes.
 
 Badges collection from the tools I use
 
+Pr
+Ai
+Ae
+Ps
 
+vscode
+pycharm
+Python IDLE
+postman
+notepad++
+
+html
+php
+css
+javascript
+c++
+c#
+python
+markdown
+mySQL
+
+docker
+apache
+cpanel
+phpmyadmin
+github
+powershell
+
+windows
+android
+debian
+kali
+ubuntu
+wearos
+brave
+duckduckgo
+proton
 
 --->
